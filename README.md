@@ -17,7 +17,7 @@ Hi There ! </br> Welcome to Anurag's Profile.
 
 ## 🔵 *STREAK STATS*
 <p align="center">
-<a href="https://github.com/useridanurag/github-readme-streak-stats">
+<a href="https://github.com/useridanurag">
 <img alt="Image streak" src="https://github-readme-streak-stats.herokuapp.com?user=useridanurag&theme=monokai-metallian&hide_border=true"/></a>
 </p></br></br>
 
@@ -32,6 +32,6 @@ Hi There ! </br> Welcome to Anurag's Profile.
 
 ## 🔵 *MY GitHub PROFILE STATS*
 <p align="center">
-<a href="https://github.com/useridanurag/github-readme-stats"><img alt="Anurag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=useridanurag&show_icons=true&theme=tokyonight" height="192px" /></a>
+<a href="https://github.com/useridanurag><img alt="Anurag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=useridanurag&show_icons=true&theme=tokyonight" height="192px" /></a>
 <p align="center">
 <a href="https://github.com/useridanurag/github-readme-activity-graph"><img alt="Anurag's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=useridanurag&theme=react-dark&hide_border=true" /></a></br></br>
