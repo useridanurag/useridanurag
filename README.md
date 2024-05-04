@@ -1,16 +1,22 @@
-### Hi there 👋
+# About
+Hello I'm Anurag , I am skilled in MERN Stack technology and have good knowledge of full stack web development .
 
-<!--
-**useridanurag/useridanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a strong work ethic and problem-solving habit, I excel as a smart worker who consistently delivers results.  I enjoy deal with challenges and finding innovative solutions to complex problems. My adaptability and quick thinking allows me to easily navigate a fast-paced and ever-changing work environment.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Client:** React, Redux, TailwindCSS
+
+- **Database:** Mongo DB
+
+- **Server:** Node, Express
+
+- **Others:** HTML, CSS, Java Script, C++, Git/GitHub
+
+
+## Social links
+
+- [LinkedIn](https://www.linkedin.com/in/useridanurag)
+- [Instagram](https://www.instagram.com/useridanurag)
+- [Twitter](https://www.twitter.com/useridanurag)
