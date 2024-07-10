@@ -8,7 +8,6 @@ I am curious and always looking for new ideas and inspirations.
 - **HTML:**
 - **CSS**
 - **Java-Script**
-- **React**
 - **Tailwind-CSS**
 - **React**
 - **OOP**
