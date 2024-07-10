@@ -11,4 +11,4 @@ I am curious and always looking for new ideas and inspirations.
 - **Tailwind-CSS**
 - **React**
 - **OOP**
-- **Git/GitHub**
+- **Git / GitHub**
