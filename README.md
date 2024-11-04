@@ -5,7 +5,7 @@ With a strong work ethic and problem-solving habit, I excel as a smart worker wh
 I am curious and always looking for new ideas and inspirations.
 
 ## Skills
-- **HTML:**
+- **HTML**
 - **CSS**
 - **Java-Script**
 - **Tailwind-CSS**
